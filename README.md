@@ -24,8 +24,10 @@ Here are some ideas to get you started:
 🔍 **Skills**: Python, Pandas, NumPy, SQL, ETL
 
 🌟 **Featured Projects**:
-- [Predictive Analysis of Energy Consumption](link-to-repository): Developed a model to predict energy consumption and optimize resources using Python and TensorFlow.
+- [Gender Gap in Diplomacy environment](https://github.com/lalessia/Gender-Gap-in-diplomacy-analyst): This project analyzes global diplomatic missions from 1961 to 2021, using **SQL** and **PostgreSQL** to investigate gender disparities and propose solutions.
 - [Music Recommendation System](link-to-repository): Created a machine learning-based recommendation system using R.
+
+- [](https://github.com/lalessia/Gender-Gap-in-diplomacy-analyst)
 
 🎯 **Goals**: To expand my expertise in Machine Learning and contribute to innovative projects in the tech sector.
 
