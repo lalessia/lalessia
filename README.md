@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, I'm Alessia! 👋
 
 <!--
 **lalessia/lalessia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - ![Certification Badge](link-to-badge)
 - ![Your Photo](link-to-your-photo)
 -->
-
-Hello, I'm Alessia!
 
 👩‍💻 **Data Scientist | Specialized in Machine Learning and Data Analysis**
 
