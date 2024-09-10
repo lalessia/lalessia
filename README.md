@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 👩‍💻 **Data Scientist | Specialized in Machine Learning and Data Analysis**
 
-🔍 **Skills**: Python, Pandas, NumPy, SQL, ETL
+🔍 **Skills**: Python, Pandas, NumPy, Sklearn, SQL, ETL
 
 🌟 **Featured Projects**:
 - [High School Students' Grade Prediction](https://github.com/lalessia/students-grades-prediction): Explored data on high school students to identify key factors influencing academic performance and implemented several machine learning models to predict final grades using **scikit-learn**.
